@@ -2,7 +2,7 @@
 Simple and fast CRUD class Generator
 
 The main purpose of this CRUD Class Generator is make de hard work on creating a new class for the CRUD Method were using these files/class:
-1.  Item crud.class.php
+1. crud.class.php
 2. connect.class.php
  
 These files mentioned above is on [link to Repository](https://github.com/povman/crud) and this tool is to be used with these mentioned files.
