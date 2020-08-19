@@ -12,7 +12,7 @@ You can see working on [https://fabiomoraes.sisdigital.com.br/crud_creator/](htt
 
 I'm sharing this code to help other programmers with this repetitive task, providing a solution to improve the time on developing.
 
-The code in this repository is ready to use, just Copy and Paste, feel free to improve this code and help de community.
+The code in this repository is ready to use, just Copy and Paste, feel free to improve this code and help the community.
 
 My regards,
 Fabio Moraes
