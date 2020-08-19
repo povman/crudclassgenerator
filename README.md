@@ -5,8 +5,8 @@ The main purpose of this CRUD Class Generator is make de hard work on creating a
 1. crud.class.php
 2. connect.class.php
  
-These files mentioned above is on [link to Repository](https://github.com/povman/crud) and this tool is to be used with these mentioned files.
-But this repository have just the CRUD class generator.
+These files mentioned above are on [link to Repository](https://github.com/povman/crud) and this tool is to be used with these mentioned files.
+But on this repository just have the CRUD class generator.
 
 You can see working on [https://fabiomoraes.sisdigital.com.br/crud_creator/](https://fabiomoraes.sisdigital.com.br/crud_creator/)
 
